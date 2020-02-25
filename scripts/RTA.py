@@ -2,7 +2,7 @@
 
 print("Enter Ci:")
 Ci = []
-new_element = input()
+new_element = input()]
 while(new_element != str("-1")):
     Ci.append(float(new_element))
     new_element = input()
